@@ -1,0 +1,9 @@
+ota-property-files=metadata:69:306         
+ota-required-cache=0
+ota-type=BLOCK
+post-build=xiaomi/violet/violet:9/PKQ1.181203.001/V10.3.9.0.PFHCNXM:user/release-keys
+post-build-incremental=V10.3.9.0.PFHCNXM
+post-sdk-level=28
+post-security-patch-level=2019-06-01
+post-timestamp=1562090615
+pre-device=violet
