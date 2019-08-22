@@ -30,6 +30,7 @@ bootimg/11_dtbdump_Qualcomm_Technologies,_Inc._SM6150_SoC.dtb
 bootimg/12_dtbdump_Huawei_Nexus_6P.dtb
 bootimg/13_dtbdump_Qualcomm_Technologies,_Inc._MSM_8916_MTP.dtb
 bootimg/14_dtbdump_5ePfy>I.dtb
+.gitignore
 modem/image/adsp.b00
 modem/image/adsp.b01
 modem/image/adsp.b02
