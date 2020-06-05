@@ -1,0 +1,13 @@
+# violet-user 10 QKQ1.190915.002 20.6.4 release-keys
+- manufacturer: xiaomi
+- platform: sm6150
+- codename: violet
+- flavor: violet-user
+- release: 10
+- id: QKQ1.190915.002
+- incremental: 20.6.4
+- tags: release-keys
+- fingerprint: xiaomi/violet/violet:10/QKQ1.190915.002/20.6.4:user/release-keys
+- brand: xiaomi
+- branch: violet-user-10-QKQ1.190915.002-20.6.4-release-keys
+- repo: xiaomi_violet_dump
